@@ -16,7 +16,7 @@ const game = {
       { name: "rare candy", quantity: 99 },
     ],
   }
-  const = pokemon
+  
 //excersice 1 
  // console.dir(pokemon, {maxArrayLength: null })
-console.log()
+ console.log
